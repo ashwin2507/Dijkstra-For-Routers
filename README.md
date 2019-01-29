@@ -1,6 +1,8 @@
 # Dijkstra For Routers
 Language used: Python 2.7
-The nodes are connected through routers, given all possible connections this program will find the shortest path between nodes using modified Dijkstra Algorithm.
+
+
+Using the Dijkstra’s algorithm find the shortest path between each pair of nodes in a network. The graph is an undirected graph defined by a set of Nodes-N, a set of Routers-R, and set of Edges-E that connects N and R.
 
 Nodes.txt ---> Contains all nodes.
 
